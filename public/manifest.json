@@ -1,0 +1,9 @@
+{
+  "short_name": "Pokemon Table",
+  "name": "A table of the top 60 Pokémon",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#EF5450"
+}
